@@ -1,0 +1,11 @@
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethods.deps.json
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethods.runtimeconfig.json
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethods.runtimeconfig.dev.json
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethods.dll
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethods.pdb
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethods.csprojResolveAssemblyReference.cache
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethods.csproj.CoreCompileInputs.cache
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethods.AssemblyInfoInputs.cache
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethods.AssemblyInfo.cs
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethods.dll
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethods.pdb
