@@ -675,9 +675,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\dev\\FunctionalMethods\\FunctionalMethods\\FunctionalMethods.csproj",
-      "projectName": "FunctionalMethods",
-      "projectPath": "C:\\dev\\FunctionalMethods\\FunctionalMethods\\FunctionalMethods.csproj",
+      "projectUniqueName": "C:\\dev\\FunctionalMethods\\FunctionalMethods\\FunctionalMethodsCsharp.csproj",
+      "projectName": "FunctionalMethodsCsharp",
+      "projectPath": "C:\\dev\\FunctionalMethods\\FunctionalMethods\\FunctionalMethodsCsharp.csproj",
       "packagesPath": "C:\\Users\\TomDane\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\FunctionalMethods\\FunctionalMethods\\obj\\",
       "projectStyle": "PackageReference",

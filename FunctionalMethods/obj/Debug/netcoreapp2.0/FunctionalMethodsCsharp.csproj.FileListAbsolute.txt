@@ -1,0 +1,11 @@
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethodsCsharp.deps.json
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethodsCsharp.runtimeconfig.json
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethodsCsharp.runtimeconfig.dev.json
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethodsCsharp.dll
+C:\dev\FunctionalMethods\FunctionalMethods\bin\Debug\netcoreapp2.0\FunctionalMethodsCsharp.pdb
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethodsCsharp.csprojResolveAssemblyReference.cache
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethodsCsharp.csproj.CoreCompileInputs.cache
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethodsCsharp.AssemblyInfoInputs.cache
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethodsCsharp.AssemblyInfo.cs
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethodsCsharp.dll
+C:\dev\FunctionalMethods\FunctionalMethods\obj\Debug\netcoreapp2.0\FunctionalMethodsCsharp.pdb
