@@ -15,8 +15,8 @@ namespace FunctionalMethodsCsharp
             var loopSelect = SelectWithLoop.ToUpper();
             loopSelect.ToList().ForEach(Console.WriteLine);
 
-            var linqSelect = SelectWithLinq.ToUpper();
-            linqSelect.ToList().ForEach(Console.WriteLine);
+            //var linqSelect = SelectWithLinq.ToUpper();
+            //linqSelect.ToList().ForEach(Console.WriteLine);
 
             ////Where/Filter
             //var loopWhere = WhereWithLoop.LessThan50();

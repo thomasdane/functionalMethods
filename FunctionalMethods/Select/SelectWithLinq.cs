@@ -5,11 +5,11 @@ namespace FunctionalMethodsCsharp.Select
 {
     public static class SelectWithLinq
     {
-        private static readonly List<string> words = new List<string> { "foo", "bar", "baz" };
+        private static readonly List<string> Words = new List<string> { "foo", "bar", "baz" };
 
         public static IEnumerable<string> ToUpper()
         {
-            return words.Select(item => item.ToUpper());
+            return Words.Select(item => item.ToUpper());
         }
     }
 }
