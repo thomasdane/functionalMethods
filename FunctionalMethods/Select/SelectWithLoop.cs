@@ -1,13 +1,12 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
 
-namespace FunctionalMethods
+namespace FunctionalMethods.Select
 {
-    public static class Select
+    public static class SelectWithLoop
     {
         private static List<string> words = new List<string> { "foo", "bar", "baz" };
 
-        public static IEnumerable<string> ToUpperWithLoops()
+        public static IEnumerable<string> ToUpper()
         {
             var newCollection = new List<string>();
 
@@ -17,11 +16,6 @@ namespace FunctionalMethods
             }
 
             return newCollection;
-        }
-
-        public static IEnumerable<string> ToUpperWithLinq()
-        {
-            return words.Select(item => item.ToUpper());
         }
     }
 }
